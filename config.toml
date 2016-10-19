@@ -1,0 +1,14 @@
+baseurl = "https://github.com/nyoppy/nyoppy.com.git"
+languageCode = "ja"
+title = "nyoppy.com"
+theme = "hemingway"
+copyright = "&copy; <a href=\"https://github.com/nyoppy.com\">nyoppy.com</a> 2016"
+disqusShortname = "shortname"
+googleAnalytics = ""
+canonifyurls = true
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
